@@ -13,6 +13,7 @@ Projetos desenvolvidos durante meus estudos de Análise de Dados.
 - Relatórios de vendas
 - Dashboards
 - Gráficos é Tabelas dinâmicas
+- Análise de informações financeiras e relatórios.
 
 # Objetivo
 Praticar organização, visualização e análise de dados.
